@@ -1,10 +1,10 @@
-# CSLab
+# CSLab 💻
 My Codes for Computer Science Lab - Mahindra University
 
 
-#Languages
+# Programming Languages 👨‍💻
 - C Language
 - Python Language
 
-#Contact
+# Contact 📧
 Email : rahul20ucse156@mahindrauniversity.edu.in
